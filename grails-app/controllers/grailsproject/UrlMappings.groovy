@@ -11,6 +11,7 @@ class UrlMappings {
 
         "/"(controller:"home")
         "/teacher/create"(controller:"teacher", action:"create")
+        "/teacher/create"(controller:"auditorium", action:"create")
         "500"(view:'/error')
         "404"(view:'/notFound')
     }
