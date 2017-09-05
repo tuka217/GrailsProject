@@ -173,5 +173,5 @@ dependencies:
 - file:/home/ania/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-core/3.7.1/dfba4eec53cd5d4206d292171f59b1bdfa07b167/jodd-core-3.7.1.jar
 - file:/home/ania/.gradle/caches/modules-2/files-2.1/org.jodd/jodd-log/3.7.1/82ffa458f1f0e9f48c22bff31bbd1f3635b44fc7/jodd-log-3.7.1.jar
 profiles:
-- file:/home/ania/.m2/repository/org/grails/profiles/web/3.3.0/web-3.3.0.jar
-- file:/home/ania/.m2/repository/org/grails/profiles/base/3.3.0/base-3.3.0.jar
+- file:/home/ania/.gradle/caches/modules-2/files-2.1/org.grails.profiles/web/3.3.0/39ff38d4f952373674d1fdf4fb50ffbabd3fef3a/web-3.3.0.jar
+- file:/home/ania/.gradle/caches/modules-2/files-2.1/org.grails.profiles/base/3.3.0/897415d2eb0d597406a3e8454bb9b94786b5b72b/base-3.3.0.jar
